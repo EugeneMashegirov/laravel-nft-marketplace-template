@@ -86,28 +86,28 @@
                             <div class="col-lg-12">
                                 <div class="line-dec"></div>
                                 <div class="row">
-                                    <div class="col-lg-3 col-sm-6">
+                                    <div class="col-6">
                                         <span>
                                             Current Bid:
                                             <br>
                                             <strong>8.16 ETH</strong>
                                         </span>
                                     </div>
-                                    <div class="col-lg-3 col-sm-6">
+                                    <div class="col-6">
                                         <span>
                                             Category:
                                             <br>
                                             <strong>Digital Art</strong>
                                         </span>
                                     </div>
-                                    <div class="col-lg-3 col-sm-6">
+                                    <div class="col-6">
                                         <span>
                                             Collection:
                                             <br>
                                             <strong>2/2</strong>
                                         </span>
                                     </div>
-                                    <div class="col-lg-3 col-sm-6">
+                                    <div class="col-6">
                                         <span>
                                             Ends In:
                                             <br>

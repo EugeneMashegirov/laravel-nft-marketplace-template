@@ -18,6 +18,10 @@ $transition: .3s all;
     color: $text-color;
 }
 
+html {
+    overflow-x: hidden;
+}
+
 body {
     position: relative;
     overflow-x: hidden;

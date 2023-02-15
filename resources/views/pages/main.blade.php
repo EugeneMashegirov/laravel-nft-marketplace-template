@@ -383,7 +383,7 @@
                             <div class="col-lg-6 all msc">
                                 <div class="item">
                                     <div class="left-content">
-                                        <img src="img/market-01.jpg" alt="">
+                                        <img class="img-fluid" src="img/market-01.jpg" alt="">
                                     </div>
                                     <div class="right-content">
                                         <h4>Music Art Super Item</h4>
@@ -420,7 +420,7 @@
                             <div class="col-lg-6 all dig">
                                 <div class="item">
                                     <div class="left-content">
-                                        <img src="img/market-01.jpg" alt="">
+                                        <img class="img-fluid" src="img/market-01.jpg" alt="">
                                     </div>
                                     <div class="right-content">
                                         <h4>Digital Crypto Artwork</h4>
@@ -457,7 +457,7 @@
                             <div class="col-lg-6 all blc">
                                 <div class="item">
                                     <div class="left-content">
-                                        <img src="img/market-01.jpg" alt="">
+                                        <img class="img-fluid" src="img/market-01.jpg" alt="">
                                     </div>
                                     <div class="right-content">
                                         <h4>Blockchain Item One</h4>
@@ -494,7 +494,7 @@
                             <div class="col-lg-6 all vtr">
                                 <div class="item">
                                     <div class="left-content">
-                                        <img src="img/market-01.jpg" alt="">
+                                        <img class="img-fluid" src="img/market-01.jpg" alt="">
                                     </div>
                                     <div class="right-content">
                                         <h4>Virtual Currency Art</h4>
@@ -531,7 +531,7 @@
                             <div class="col-lg-6 all vtr dig">
                                 <div class="item">
                                     <div class="left-content">
-                                        <img src="img/market-01.jpg" alt="">
+                                        <img class="img-fluid" src="img/market-01.jpg" alt="">
                                     </div>
                                     <div class="right-content">
                                         <h4>Digital Art Item</h4>
@@ -568,7 +568,7 @@
                             <div class="col-lg-6 all msc blc">
                                 <div class="item">
                                     <div class="left-content">
-                                        <img src="img/market-01.jpg" alt="">
+                                        <img class="img-fluid" src="img/market-01.jpg" alt="">
                                     </div>
                                     <div class="right-content">
                                         <h4>Blockchain Music Design</h4>
@@ -587,7 +587,6 @@
                                                 <p>Current BID</p>
                                                 <p><strong>2.44 ETH</strong></p>
                                                 <p><em>($8,200.50)</em></p>
-                                                
                                             </div>
                                             <div class="text-end">
                                                 <p>Ends in</p>

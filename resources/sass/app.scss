@@ -159,9 +159,6 @@ footer a:hover {
     margin-top: 30px;
 }
 
-// .banner-buttons {
-    
-// }
 .banner-buttons > * {
     position: relative;
     background-color: transparent;
@@ -1032,5 +1029,18 @@ footer a:hover {
     .author-page .author {
         justify-content: center;
         margin-bottom: 30px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .navbar-toggler {
+        margin: 0 auto;
+    }
+
+    .banner-buttons {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
     }
 }
